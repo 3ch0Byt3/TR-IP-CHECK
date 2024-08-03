@@ -3,4 +3,4 @@
 
 You Must Install Requests and Python <br>
 ```pip install requests``` <br>
-```sudo apt install Python```
+```sudo apt install python```
